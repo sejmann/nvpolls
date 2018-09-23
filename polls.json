@@ -1,0 +1,4234 @@
+[
+  {
+	"name": "Albertsons",
+	"address": "1001 S Rainbow Blvd",
+	"city": "Las Vegas",
+	"zip": 89145,
+	"cross": "Charleston & Rainbow",
+	"lat": 36.1601454,
+	"lon": -115.2451369,
+	"availability": [
+	  {
+		"start": "2018-05-30",
+		"end": "2018-05-31",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "10140 W Flamingo Rd",
+	"city": "Las Vegas",
+	"zip": 89147,
+	"cross": "Flamingo & Hualapai",
+	"lat": 36.1165971,
+	"lon": -115.3134623,
+	"availability": [
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-30",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "10250 W Charleston Blvd",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"cross": "Charleston & Town Center",
+	"lat": 36.1606507,
+	"lon": -115.3195753,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "1650 N Buffalo Dr",
+	"city": "Las Vegas",
+	"zip": 89128,
+	"cross": "Buffalo & Vegas",
+	"lat": 36.1898489,
+	"lon": -115.2585135,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "190 N Boulder Hwy",
+	"city": "Henderson",
+	"zip": 89015,
+	"cross": "Lake Mead Pkwy & Boulder Hwy.",
+	"lat": 36.0416401,
+	"lon": -114.9812631,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-06-01",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "1940 Village Center Cir",
+	"city": "Las Vegas",
+	"zip": 89134,
+	"cross": "Village Center Cir. & Trails Center",
+	"lat": 36.1936955,
+	"lon": -115.3058813,
+	"availability": [
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-03",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "201 S Stephanie St",
+	"city": "Henderson",
+	"zip": 89012,
+	"cross": "Stephanie & Horizon Ridge",
+	"lat": 36.0204536,
+	"lon": -115.0492867,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-03",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "2835 S Nellis Blvd",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"cross": "Nellis & Vegas Valley",
+	"lat": 36.1385173,
+	"lon": -115.0672328,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-27",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "2885 E Desert Inn Rd",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"cross": "Desert Inn & Pecos-McLeod",
+	"lat": 36.1282355,
+	"lon": -115.1110015,
+	"availability": [
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-30",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "3010 W Ann Rd",
+	"city": "North Las Vegas",
+	"zip": 89031,
+	"cross": "Ann & Simmons",
+	"lat": 36.2630509,
+	"lon": -115.181196,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "4055 S Durango Dr",
+	"city": "Las Vegas",
+	"zip": 89147,
+	"cross": "Flamingo & Durango",
+	"lat": 36.11593,
+	"lon": -115.2806099,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-03",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "4850 W Craig Rd",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"cross": "Craig & Decatur",
+	"lat": 36.2405185,
+	"lon": -115.2090955,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "575 College Dr",
+	"city": "Henderson",
+	"zip": 89015,
+	"cross": "College & Horizon",
+	"lat": 36.0137519,
+	"lon": -114.9648574,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "5881 E Charleston Blvd",
+	"city": "Las Vegas",
+	"zip": 89142,
+	"cross": "Charleston & Sloan",
+	"lat": 36.1583957,
+	"lon": -115.0453017,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-30",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "5975 W Tropicana Ave",
+	"city": "Las Vegas",
+	"zip": 89103,
+	"cross": "Tropicana & Jones",
+	"lat": 36.0986347,
+	"lon": -115.22384,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-27",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "6885 E Lake Mead Blvd",
+	"city": "Las Vegas",
+	"zip": 89156,
+	"cross": "Lake Mead Blvd & Hollywood",
+	"lat": 36.1944741,
+	"lon": -115.0238181,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-03",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "7075 W Ann Rd",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"cross": "Ann & Drexel",
+	"lat": 36.2607601,
+	"lon": -115.2477901,
+	"availability": [
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-04",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "7151 W Craig Rd",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"cross": "Craig & Tenaya",
+	"lat": 36.2381728,
+	"lon": -115.2502154,
+	"availability": [
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-02",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "7271 S Eastern Ave",
+	"city": "Las Vegas",
+	"zip": 89119,
+	"cross": "Eastern & Warm Springs",
+	"lat": 36.0580521,
+	"lon": -115.1203157,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-06-01",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "7975 Blue Diamond Rd",
+	"city": "Las Vegas",
+	"zip": 89178,
+	"cross": "Blue Diamond & Buffalo",
+	"lat": 36.0181193,
+	"lon": -115.2651442,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "8350 W Cheyenne Ave",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"cross": "Cheyenne & Durango",
+	"lat": 36.2200433,
+	"lon": -115.2754402,
+	"availability": [
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Albertsons",
+	"address": "8410 Farm Rd",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"cross": "Farm & Durango",
+	"lat": 36.3005111,
+	"lon": -115.2792457,
+	"availability": [
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-07",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Alexander Library",
+	"address": "1755 W Alexander Rd",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"cross": "W Alexander Rd, West of Martin Luther King",
+	"lat": 36.231597,
+	"lon": -115.1648766,
+	"availability": [
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-02",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Aliante Library",
+	"address": "2400 Deer Springs Way",
+	"city": "North Las Vegas",
+	"zip": 89084,
+	"cross": "W Deer Springs Way, West of Clayton",
+	"lat": 36.28486,
+	"lon": -115.1756227,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-31",
+		"open": "11:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Allen, Dean Elem.",
+	"address": "8680 W Hammer Ln",
+	"city": "Las Vegas",
+	"zip": 89149,
+	"lat": 36.2601448,
+	"lon": -115.2832955,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Andre Agassi Boys & Girls Club",
+	"address": "800 N M.L.K. Blvd",
+	"city": "Las Vegas",
+	"zip": 89106,
+	"lat": 36.1796256,
+	"lon": -115.1602445,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Arroyo Market Square",
+	"note": "Event Tent in Parking Lot near The Men's Wearhouse",
+	"address": "7295 Arroyo Crossing Pkwy",
+	"city": "Las Vegas",
+	"zip": 89113,
+	"cross": "215 & S Rainbow Blvd",
+	"lat": 36.0630744,
+	"lon": -115.2509104,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Arroyo Market Square",
+	"note": "In Tent",
+	"address": "6930 Arroyo Crossing Pkwy",
+	"city": "Las Vegas",
+	"zip": 89113,
+	"lat": 36.065351,
+	"lon": -115.24449,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bailey, Sister Robert Joseph Elem.",
+	"address": "4525 Jimmy Durante Blvd",
+	"city": "Las Vegas",
+	"zip": 89122,
+	"lat": 36.1067489,
+	"lon": -115.0521316,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bailey, William H. Mid. Sch.",
+	"address": "2500 N Hollywood Blvd",
+	"city": "Las Vegas",
+	"zip": 89156,
+	"lat": 36.204989,
+	"lon": -115.0257467,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bass, John Elem.",
+	"address": "10377 Rancho Destino Rd",
+	"city": "Las Vegas",
+	"zip": 89183,
+	"lat": 36.0013685,
+	"lon": -115.1664398,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Beatty, John Elem.",
+	"address": "8685 Hidden Palms Pkwy",
+	"city": "Las Vegas",
+	"zip": 89123,
+	"lat": 36.0315112,
+	"lon": -115.1517826,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bell, Rex Elem.",
+	"address": "2900 Wilmington Way",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"lat": 36.1406364,
+	"lon": -115.1802546,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Blue Diamond Crossing",
+	"note": "Event Tent in Parking Lot between Target and Kohl's",
+	"address": "4150 Blue Diamond Rd",
+	"city": "Las Vegas",
+	"zip": 89139,
+	"cross": "Blue Diamond Rd & Arville St",
+	"lat": 36.0400365,
+	"lon": -115.1964039,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bob Price Recreation Center",
+	"address": "2050 Bonnie Ln",
+	"city": "Las Vegas",
+	"zip": 89156,
+	"cross": "Bonnie Ln & E Lake Mead Blvd",
+	"lat": 36.1970686,
+	"lon": -115.0450598,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Boulder City Recreation Ctr.",
+	"address": "900 Arizona St",
+	"city": "Boulder City",
+	"zip": 89005,
+	"lat": 35.9788784,
+	"lon": -114.8332876,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Boulder City, City Hall",
+	"address": "401 California Ave",
+	"city": "Boulder City",
+	"zip": 89005,
+	"cross": "California Ave & Arizona St",
+	"lat": 35.9787467,
+	"lon": -114.8337049,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-31",
+		"open": "07:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Boulevard Mall",
+	"note": "East Corridor by Christy Candy and Rear (EAST) Mall Entrance. Park in the Back of the Mall, 3528 S. Maryland Pkwy. Between E. Desert Inn Rd. and E. Twain Ave., Las Vegas",
+	"address": "3542 S Maryland Pkwy",
+	"city": "Las Vegas",
+	"zip": 89169,
+	"cross": "Maryland Pkwy Between E Desert Inn Rd and E Twain Ave",
+	"lat": 36.124902,
+	"lon": -115.13471,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-26",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-05-27",
+		"end": "2018-05-27",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-28",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-02",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-03",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-08",
+		"open": "10:00",
+		"close": "21:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bozarth, Henry & Evelyn Elem.",
+	"address": "7431 Egan Crest Dr",
+	"city": "Las Vegas",
+	"zip": 89166,
+	"lat": 36.296309,
+	"lon": -115.3209939,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bridger, Jim Mid. Sch.",
+	"address": "2505 N Bruce St",
+	"city": "North Las Vegas",
+	"zip": 89030,
+	"lat": 36.2045607,
+	"lon": -115.1255806,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Brookman, Eileen Elem.",
+	"address": "6225 E Washington Ave",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"lat": 36.1804191,
+	"lon": -115.0359855,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Brown, B. Mahlon Middle Sch.",
+	"address": "307 Cannes St",
+	"city": "Henderson",
+	"zip": 89015,
+	"lat": 36.051644,
+	"lon": -114.955298,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Bunkerville Community Ctr.",
+	"address": "200 Virgin St",
+	"city": "Bunkerville",
+	"zip": 89007,
+	"lat": 36.772886,
+	"lon": -114.1293565,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Burkholder, Lyal Mid. Sch.",
+	"address": "355 W Van Wagenen St",
+	"city": "Henderson",
+	"zip": 89015,
+	"lat": 36.029215,
+	"lon": -114.992655,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Buy Low Market",
+	"address": "1061 W Owens Ave",
+	"city": "Las Vegas",
+	"zip": 89106,
+	"cross": "W Owens Ave & H St",
+	"lat": 36.1866315,
+	"lon": -115.1552827,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Cadwallader, Ralph L. Mid. Sch.",
+	"address": "7775 West Elkhorn Road",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"lat": 36.2898722,
+	"lon": -115.2631375,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Cambridge Recreation Ctr.",
+	"address": "3930 Cambridge St",
+	"city": "Las Vegas",
+	"zip": 89119,
+	"lat": 36.1182603,
+	"lon": -115.1408818,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Canarelli, Lawr. And Heidi Mid. Sch.",
+	"address": "7808 S Torrey Pines Dr",
+	"city": "Las Vegas",
+	"zip": 89139,
+	"lat": 36.0459753,
+	"lon": -115.2334171,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Canyon Ridge Church",
+	"note": "In Trailer",
+	"address": "6200 W Lone Mountain Rd",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"cross": "W Lone Mountain Rd & Jones",
+	"lat": 36.2473673,
+	"lon": -115.2271713,
+	"availability": [
+	  {
+		"start": "2018-06-05",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Cardenas Market",
+	"address": "4421 E Bonanza Rd",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"cross": "E Bonanza Rd & Lamb",
+	"lat": 36.1722599,
+	"lon": -115.0791222,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Cashman, James Mid. Sch.",
+	"address": "4622 W Desert Inn Rd",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"lat": 36.130302,
+	"lon": -115.2043056,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Centennial Center",
+	"note": "Event Tent in Parking Lot near Home Depot",
+	"address": "7881 W Tropical Pkwy",
+	"city": "Las Vegas",
+	"zip": 89149,
+	"cross": "W Tropical Pkwy & Centennial Ctr Blvd",
+	"lat": 36.2694491,
+	"lon": -115.2660691,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Centennial Hills YMCA",
+	"address": "6601 N Buffalo Dr",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"cross": "N Buffalo Dr & Sky Pointe",
+	"lat": 36.2824181,
+	"lon": -115.2640329,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Chinatown Plaza",
+	"address": "4215 Spring Mountain Rd",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"cross": "Spring Mountain Rd & Wynn",
+	"lat": 36.1253808,
+	"lon": -115.1959803,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-03",
+		"open": "11:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Clark County Building Department",
+	"address": "4701 W Russell Rd",
+	"city": "Las Vegas",
+	"zip": 89118,
+	"lat": 36.0854934,
+	"lon": -115.2047985,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Clark County Fairgrounds-fine Arts",
+	"address": "1301 Whipple Ave",
+	"city": "Logandale",
+	"zip": 89021,
+	"lat": 36.6079039,
+	"lon": -114.4701117,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Clark County Government Center",
+	"note": "Regional Transportation Commission (RTC) Building, 1st Floor, Room 108",
+	"address": "600 S Grand Central Pkwy",
+	"city": "Las Vegas",
+	"zip": 89106,
+	"cross": "S Grand Central Pkwy & W Bonneville Ave",
+	"lat": 36.1640169,
+	"lon": -115.1549238,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-01",
+		"open": "08:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Coronado High School",
+	"address": "1001 Coronado Center Dr",
+	"city": "Henderson",
+	"zip": 89052,
+	"lat": 35.994524,
+	"lon": -115.1116445,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Cox, David Elem.",
+	"address": "280 Clark Dr",
+	"city": "Henderson",
+	"zip": 89074,
+	"lat": 36.0490226,
+	"lon": -115.1037182,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Cram, Brian And Teri Mid. Sch.",
+	"address": "1900 Deer Springs Way",
+	"city": "North Las Vegas",
+	"zip": 89084,
+	"lat": 36.2845206,
+	"lon": -115.1689352,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Culley, Paul Elem.",
+	"address": "1200 N Mallard St",
+	"city": "Las Vegas",
+	"zip": 89108,
+	"lat": 36.1835923,
+	"lon": -115.221682,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Cunningham, Cynthia Elem.",
+	"address": "4145 Jimmy Durante Blvd",
+	"city": "Las Vegas",
+	"zip": 89122,
+	"lat": 36.1137919,
+	"lon": -115.052571,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Dailey, Jack Elem.",
+	"address": "2001 East Reno Avenue",
+	"city": "Las Vegas",
+	"zip": 89119,
+	"lat": 36.0958103,
+	"lon": -115.1243466,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Deer Springs Town Center",
+	"note": "Event Tent in Parking Lot near Michaels",
+	"address": "6990 N 5th St",
+	"city": "North Las Vegas",
+	"zip": 89084,
+	"cross": "N 5th St, South of CC-215 & W Dorrell Ln",
+	"lat": 36.2871648,
+	"lon": -115.1343673,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Derfelt, Herbert Elem.",
+	"address": "1900 S Lisa Ln",
+	"city": "Las Vegas",
+	"zip": 89117,
+	"lat": 36.1503352,
+	"lon": -115.2764426,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Desert Breeze Community Center",
+	"address": "8275 Spring Mountain Rd",
+	"city": "Las Vegas",
+	"zip": 89147,
+	"cross": "Spring Mountain Rd & S Cimarron Rd",
+	"lat": 36.125355,
+	"lon": -115.2743768,
+	"availability": [
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Desert Crossing Shopping Center",
+	"note": "In Trailer",
+	"address": "4860 W Desert Inn Rd",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"cross": "Desert Inn & Decatur",
+	"lat": 36.1313155,
+	"lon": -115.2071536,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-27",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Desert Oasis High School",
+	"address": "6600 W Erie Ave",
+	"city": "Las Vegas",
+	"zip": 89141,
+	"lat": 35.9923797,
+	"lon": -115.2371744,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Desert Vista Community Center",
+	"address": "10360 Sun City Blvd",
+	"city": "Las Vegas",
+	"zip": 89134,
+	"cross": "Sun City Blvd & Thomas W Ryan",
+	"lat": 36.2117513,
+	"lon": -115.3233672,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-27",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Designer's Church",
+	"address": "1305 W Horizon Ridge Pkwy",
+	"city": "Henderson",
+	"zip": 89012,
+	"lat": 36.0216162,
+	"lon": -115.0435182,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Detwiler, Ollie Elem.",
+	"address": "1960 Ferrell St",
+	"city": "Las Vegas",
+	"zip": 89106,
+	"lat": 36.1948693,
+	"lon": -115.1821536,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Dickens, D. L. (dusty) Elem.",
+	"address": "5550 Milan Peak St",
+	"city": "North Las Vegas",
+	"zip": 89081,
+	"lat": 36.2606468,
+	"lon": -115.0907427,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Dooley, John Elem.",
+	"address": "1940 Chickasaw Dr",
+	"city": "Henderson",
+	"zip": 89002,
+	"lat": 36.0080121,
+	"lon": -114.9359221,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Doolittle Community Center",
+	"note": "Room B",
+	"address": "1950 N J St",
+	"city": "Las Vegas",
+	"zip": 89106,
+	"cross": "J St, East of Lake Mead Blvd",
+	"lat": 36.1952818,
+	"lon": -115.1554891,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-02",
+		"open": "09:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Downtown Summerlin",
+	"note": "Event Tent in Parking Lot Near Dillard's",
+	"address": "11011 Sage Park Dr",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"cross": "Sahara Ave & CC-215",
+	"lat": 36.1477395,
+	"lon": -115.3339305,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Downtown Summerlin Shopping Ctr.",
+	"note": "In Tent",
+	"address": "1980 Festival Plaza Dr",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"lat": 36.1499775,
+	"lon": -115.3323726,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Dr. William U. Pearson Community Center",
+	"note": "Room C",
+	"address": "1625 W Carey Ave",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"cross": "W Carey Ave, West of Martin Luther King Blvd",
+	"lat": 36.202938,
+	"lon": -115.1623507,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-26",
+		"open": "09:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-01",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "East Career Tech Academy",
+	"address": "6705 Vegas Valley Dr",
+	"city": "Las Vegas",
+	"zip": 89142,
+	"lat": 36.1361976,
+	"lon": -115.0266735,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "East Las Vegas Community Center",
+	"address": "250 N Eastern Ave",
+	"city": "Las Vegas",
+	"zip": 89101,
+	"cross": "250 N Eastern Ave & Stewart Ave",
+	"lat": 36.1660204,
+	"lon": -115.1147541,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-26",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-01",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-02",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Elizondo, Raul Elem.",
+	"address": "4865 N Goldfield St",
+	"city": "North Las Vegas",
+	"zip": 89031,
+	"lat": 36.2478062,
+	"lon": -115.1405575,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Enterprise Library",
+	"address": "25 E Shelbourne Ave",
+	"city": "Las Vegas",
+	"zip": 89123,
+	"cross": "E Shelbourne Ave & S Las Vegas Blvd",
+	"lat": 36.038356,
+	"lon": -115.171088,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-05-31",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-01",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Escobedo, Edmundo Sr. Mid. Sch.",
+	"address": "9501 Echelon Point Dr",
+	"city": "Las Vegas",
+	"zip": 89149,
+	"lat": 36.2820315,
+	"lon": -115.304131,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Faiss, Wilbur And Theresa Mid. Sch.",
+	"address": "9525 W Maule Ave",
+	"city": "Las Vegas",
+	"zip": 89148,
+	"lat": 36.061849,
+	"lon": -115.299908,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Fertitta, Frank And Victoria Mid. Sch.",
+	"address": "9905 W Mesa Vista Ave",
+	"city": "Las Vegas",
+	"zip": 89148,
+	"lat": 36.0897468,
+	"lon": -115.3095236,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Fine, Mark L. Elem.",
+	"address": "6635 W Cougar Ave",
+	"city": "Las Vegas",
+	"zip": 89139,
+	"lat": 36.0315129,
+	"lon": -115.2368502,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Forbuss, Robert L. Elem.",
+	"address": "8601 S Grand Canyon Dr",
+	"city": "Las Vegas",
+	"zip": 89178,
+	"lat": 36.0309093,
+	"lon": -115.3082784,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "French, Doris Elem.",
+	"address": "3235 E Hacienda Ave",
+	"city": "Las Vegas",
+	"zip": 89120,
+	"lat": 36.0926986,
+	"lon": -115.1051467,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Galleria at Sunset",
+	"note": "Kohl's Court, 1st Floor",
+	"address": "1316 W Sunset Rd",
+	"city": "Henderson",
+	"zip": 89014,
+	"cross": "Sunset Rd & N Stephanie St",
+	"lat": 36.0638007,
+	"lon": -115.0427117,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-26",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-05-27",
+		"end": "2018-05-27",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-28",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-02",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-03",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-08",
+		"open": "10:00",
+		"close": "21:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Galloway, Fay Elem.",
+	"address": "701 Skyline Rd",
+	"city": "Henderson",
+	"zip": 89002,
+	"lat": 36.008094,
+	"lon": -114.979747,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Givens, Linda Rankin Elem.",
+	"address": "655 Park Vista Dr",
+	"city": "Las Vegas",
+	"zip": 89138,
+	"lat": 36.1673245,
+	"lon": -115.344224,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Good Samaritan Lutheran Church",
+	"address": "8425 W Windmill Ln",
+	"city": "Las Vegas",
+	"zip": 89113,
+	"lat": 36.0398253,
+	"lon": -115.2750071,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Goolsby, Judy And John Elem.",
+	"address": "11175 W Desert Inn Rd",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"lat": 36.1280255,
+	"lon": -115.3368632,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Grace In The Desert Episcopal Church",
+	"address": "2004 Spring Gate Ln",
+	"city": "Las Vegas",
+	"zip": 89134,
+	"lat": 36.1966846,
+	"lon": -115.3058673,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Grace Valley Reform Church",
+	"address": "1370 E Robindale Rd",
+	"city": "Las Vegas",
+	"zip": 89123,
+	"lat": 36.050204,
+	"lon": -115.1338173,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Gray, R. Guild Elem.",
+	"address": "2825 S Torrey Pines Dr",
+	"city": "Las Vegas",
+	"zip": 89146,
+	"lat": 36.1381944,
+	"lon": -115.2349515,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Green Valley Baptist Church",
+	"address": "270 N Valle Verde Dr",
+	"city": "Henderson",
+	"zip": 89074,
+	"lat": 36.0474482,
+	"lon": -115.0692572,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Green Valley Library",
+	"address": "2797 N Green Valley Pkwy",
+	"city": "Henderson",
+	"zip": 89014,
+	"cross": "N Green Valley Pkwy & Sunset",
+	"lat": 36.0704557,
+	"lon": -115.0832628,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-05-31",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-02",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Green Valley Presbyterian Church",
+	"address": "1798 Wigwam Pkwy",
+	"city": "Henderson",
+	"zip": 89074,
+	"lat": 36.0340633,
+	"lon": -115.0638824,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Green Valley Town Center",
+	"note": "In Trailer",
+	"address": "4500 E Sunset Rd",
+	"city": "Henderson",
+	"zip": 89014,
+	"cross": "E Sunset Rd, East of Mountain Vista",
+	"lat": 36.0719129,
+	"lon": -115.0748281,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Guinn, Kenny C. Mid. Sch.",
+	"address": "4150 S Torrey Pines Dr",
+	"city": "Las Vegas",
+	"zip": 89103,
+	"lat": 36.1136639,
+	"lon": -115.2315792,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Harmon, Harley Elem.",
+	"address": "5351 Hillsboro Ln",
+	"city": "Las Vegas",
+	"zip": 89120,
+	"lat": 36.091958,
+	"lon": -115.067396,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Harris, George Elem.",
+	"address": "3620 S Sandhill Rd",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.123474,
+	"lon": -115.090927,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Hayden, Don E. Elem.",
+	"address": "150 W Rome Blvd",
+	"city": "North Las Vegas",
+	"zip": 89084,
+	"lat": 36.2798917,
+	"lon": -115.2043198,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Hayes, Keith And Karen Elem.",
+	"address": "9620 W Twain Ave",
+	"city": "Las Vegas",
+	"zip": 89147,
+	"lat": 36.1235621,
+	"lon": -115.3025569,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Heckethorn, Howard Elem.",
+	"address": "5150 Whispering Sands Dr",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"lat": 36.3030466,
+	"lon": -115.2133168,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Henderson City Hall",
+	"address": "240 S Water St",
+	"city": "Henderson",
+	"zip": 89015,
+	"cross": "S Water St & W Basic Rd",
+	"lat": 36.0298863,
+	"lon": -114.9823695,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-06",
+		"open": "07:30",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Henderson Executive Airport",
+	"address": "3500 Executive Terminal Dr",
+	"city": "Henderson",
+	"zip": 89052,
+	"lat": 35.9770746,
+	"lon": -115.1390288,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Heritage Park Sr. Facility",
+	"address": "300 S Racetrack Rd",
+	"city": "Henderson",
+	"zip": 89015,
+	"cross": "S Racetrack Rd & Burkholder",
+	"lat": 36.0328527,
+	"lon": -114.9512052,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Historic Fifth St. School",
+	"address": "401 S 4th St",
+	"city": "Las Vegas",
+	"zip": 89101,
+	"lat": 36.1651069,
+	"lon": -115.1437538,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Hollywood Recreation Center",
+	"address": "1650 S Hollywood Blvd",
+	"city": "Las Vegas",
+	"zip": 89142,
+	"cross": "S Hollywood Blvd, Between E Sahara and E Charleston",
+	"lat": 36.1526698,
+	"lon": -115.025793,
+	"availability": [
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-07",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Indian Springs Community Ctr.",
+	"address": "715 Gretta Ln",
+	"city": "Indian Springs",
+	"zip": 89018,
+	"lat": 36.5683304,
+	"lon": -115.6767011,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "International Church Of Las Vegas",
+	"address": "3425 Cliff Shadows Pkwy",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"lat": 36.222476,
+	"lon": -115.332604,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Johnson, Walter Mid. Sch.",
+	"address": "7701 Ducharme Ave",
+	"city": "Las Vegas",
+	"zip": 89145,
+	"lat": 36.168378,
+	"lon": -115.262055,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Jones, Blackhurst Elem.",
+	"address": "11141 S Pioneer Way",
+	"city": "Las Vegas",
+	"zip": 89179,
+	"lat": 35.9871524,
+	"lon": -115.2578852,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Katz, Edythe And Lloyd Elem.",
+	"address": "1800 Rock Springs Dr",
+	"city": "Las Vegas",
+	"zip": 89128,
+	"lat": 36.1914696,
+	"lon": -115.2475285,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Keller, Duane Mid. Sch.",
+	"address": "301 N Fogg St",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"lat": 36.1660081,
+	"lon": -115.0363328,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Kesterson, Lorna Elem.",
+	"address": "231 Bailey Island Dr",
+	"city": "Henderson",
+	"zip": 89074,
+	"lat": 36.0449733,
+	"lon": -115.0364974,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "King, Martha Elem.",
+	"address": "888 Adams Blvd",
+	"city": "Boulder City",
+	"zip": 89005,
+	"lat": 35.9695936,
+	"lon": -114.8323147,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Knudson, K. O. Mid. Sch.",
+	"address": "2400 Atlantic St",
+	"city": "Las Vegas",
+	"zip": 89104,
+	"lat": 36.1455804,
+	"lon": -115.1152194,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "La Bonita Supermarket",
+	"address": "6000 W Cheyenne Ave",
+	"city": "Las Vegas",
+	"zip": 89108,
+	"cross": "W Cheyenne Ave & Jones",
+	"lat": 36.2179714,
+	"lon": -115.2242517,
+	"availability": [
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-29",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Lake, Robert Elem.",
+	"address": "2904 Meteoro St",
+	"city": "Las Vegas",
+	"zip": 89169,
+	"lat": 36.1388444,
+	"lon": -115.1286802,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Lakes Lutheran Church",
+	"address": "8200 W Sahara Ave",
+	"city": "Las Vegas",
+	"zip": 89117,
+	"cross": "W Sahara Ave & Cimarron",
+	"lat": 36.1444056,
+	"lon": -115.2704693,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-29",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Las Vegas Athletic Club",
+	"note": "In Trailer",
+	"address": "1725 N Rainbow Blvd",
+	"city": "Las Vegas",
+	"zip": 89108,
+	"cross": "N Rainbow Blvd, South of Lake Mead Blvd",
+	"lat": 36.1918003,
+	"lon": -115.2432872,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-01",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Las Vegas Strip Site",
+	"address": "3550 W Harmon Ave",
+	"city": "Las Vegas",
+	"zip": 89103,
+	"lat": 36.1098967,
+	"lon": -115.1873412,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Laughlin Library",
+	"address": "2840 Needles Hwy",
+	"city": "Laughlin",
+	"zip": 89029,
+	"lat": 35.145524,
+	"lon": -114.6247643,
+	"availability": [
+	  {
+		"start": "2018-06-05",
+		"end": "2018-06-05",
+		"open": "11:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-06",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Lawrence, Clifford J.h.s.",
+	"address": "4410 S Juliano Rd",
+	"city": "Las Vegas",
+	"zip": 89147,
+	"lat": 36.1094002,
+	"lon": -115.284743,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Leavitt, Justice Myron Mid. Sch.",
+	"address": "4701 Quadrel St",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"lat": 36.2457595,
+	"lon": -115.2639448,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Lied Mid. Sch.",
+	"address": "5350 W Tropical Pkwy",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"lat": 36.269491,
+	"lon": -115.213855,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Lowe's Parking Lot",
+	"note": "In Trailer",
+	"address": "2570 E Craig Rd",
+	"city": "North Las Vegas",
+	"zip": 89030,
+	"cross": "E Craig Rd & Losee",
+	"lat": 36.2425547,
+	"lon": -115.115727,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-03",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Mack, Jerome D. Mid. Sch.",
+	"address": "4250 Karen Ave",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.1415437,
+	"lon": -115.0815679,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mack, Nate Elem.",
+	"address": "3170 Laurel Ave",
+	"city": "Henderson",
+	"zip": 89014,
+	"lat": 36.05941,
+	"lon": -115.0919138,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Manch, J. E. Elem.",
+	"address": "4351 N Lamont St",
+	"city": "Las Vegas",
+	"zip": 89115,
+	"lat": 36.2390564,
+	"lon": -115.0679808,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mannion, Jack And Terry Mid. Sch.",
+	"address": "155 E Paradise Hills Dr",
+	"city": "Henderson",
+	"zip": 89002,
+	"lat": 35.989406,
+	"lon": -114.978926,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Martin, Roy Mid. Sch.",
+	"address": "2800 Stewart Ave",
+	"city": "Las Vegas",
+	"zip": 89101,
+	"lat": 36.1661835,
+	"lon": -115.1114416,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "May, Ernest Elem.",
+	"address": "6350 W Washburn Rd",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"lat": 36.255439,
+	"lon": -115.232876,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mcdoniel, Elem.",
+	"address": "1831 Fox Ridge Dr",
+	"city": "Henderson",
+	"zip": 89014,
+	"lat": 36.0587097,
+	"lon": -115.0668015,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Meadows Mall",
+	"note": "Sears Court, 1st Floor",
+	"address": "4300 Meadows Ln",
+	"city": "Las Vegas",
+	"zip": 89107,
+	"cross": "Meadows Lane & S Valley View Blvd",
+	"lat": 36.1725319,
+	"lon": -115.197258,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-26",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-05-27",
+		"end": "2018-05-27",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-28",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-05-29",
+		"end": "2018-06-02",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-03",
+		"open": "11:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-08",
+		"open": "10:00",
+		"close": "21:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mendoza, John Elem.",
+	"address": "2000 S Sloan Ln",
+	"city": "Las Vegas",
+	"zip": 89142,
+	"lat": 36.1495543,
+	"lon": -115.0464138,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mesquite Deuce 2 Building",
+	"address": "150 N Yucca St",
+	"city": "Mesquite",
+	"zip": 89027,
+	"lat": 36.8069262,
+	"lon": -114.0674762,
+	"availability": [
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-04",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Miller, Bob Mid. Sch.",
+	"address": "2400 Cozy Hill Cir",
+	"city": "Henderson",
+	"zip": 89052,
+	"lat": 36.0131695,
+	"lon": -115.0920638,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mirabelli Community Ctr.",
+	"address": "6200 Hargrove Ave",
+	"city": "Las Vegas",
+	"zip": 89107,
+	"lat": 36.1732023,
+	"lon": -115.2268472,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Moapa Community Ctr.",
+	"address": "1340 NV-168",
+	"city": "Moapa",
+	"zip": 89025,
+	"lat": 36.671681,
+	"lon": -114.590346,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Moapa Tribal Administration Building",
+	"address": "1 Lincoln St",
+	"city": "Moapa",
+	"zip": 89025,
+	"lat": 36.6700489,
+	"lon": -114.6533917,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Moapa Valley Senior Center",
+	"address": "325 N Cooper St",
+	"city": "Overton",
+	"zip": 89040,
+	"lat": 36.5453086,
+	"lon": -114.4439685,
+	"availability": [
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-01",
+		"open": "08:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Molasky, Irwin And Susan Mid. Sch.",
+	"address": "7801 W Gilmore Ave",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"lat": 36.2291984,
+	"lon": -115.2648342,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Monaco, Mario C. & Joann Mid. Sch.",
+	"address": "1870 N Lamont St",
+	"city": "Las Vegas",
+	"zip": 89115,
+	"lat": 36.1942182,
+	"lon": -115.065125,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Moore, William Elem.",
+	"address": "491 N Lamb Blvd",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"lat": 36.168818,
+	"lon": -115.08276,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mountain Crest Community Center",
+	"address": "4701 N Durango Dr",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"cross": "N Durango Dr, South of Lone Mountain",
+	"lat": 36.24657,
+	"lon": -115.281536,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-31",
+		"open": "09:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mountain Shadows Community Center",
+	"address": "9107 Del Webb Blvd",
+	"city": "Las Vegas",
+	"zip": 89134,
+	"cross": "Del Webb Blvd & Crown Ridge",
+	"lat": 36.2109979,
+	"lon": -115.2939613,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Mountain View Lutheran Church",
+	"address": "9550 W Cheyenne Ave",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"lat": 36.2195598,
+	"lon": -115.3024654,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Nellis Crossing Shopping Center",
+	"note": "In Trailer",
+	"address": "1240 S Nellis Blvd",
+	"city": "Las Vegas",
+	"zip": 89104,
+	"cross": "Nellis & Charleston",
+	"lat": 36.1556904,
+	"lon": -115.0628152,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "North Las Vegas Airport",
+	"address": "2730 Airport Dr",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"lat": 36.2092335,
+	"lon": -115.1994297,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "North Las Vegas City Hall",
+	"address": "2250 N Las Vegas Blvd",
+	"city": "North Las Vegas",
+	"zip": 89030,
+	"cross": "Las Vegas Blvd N & Civic Center",
+	"lat": 36.2004531,
+	"lon": -115.1211472,
+	"availability": [
+	  {
+		"start": "2018-06-05",
+		"end": "2018-06-05",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "O'callaghan, Mike Mid. Sch.",
+	"address": "1450 Radwick Dr",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"lat": 36.1844721,
+	"lon": -115.0202232,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "O'roarke, Thomas J. Elem.",
+	"address": "8455 Ohare Rd",
+	"city": "Las Vegas",
+	"zip": 89166,
+	"lat": 36.32499,
+	"lon": -115.3666925,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Opportunity Village-englestad",
+	"address": "6050 S Buffalo Dr",
+	"city": "Las Vegas",
+	"zip": 89113,
+	"lat": 36.0786159,
+	"lon": -115.259235,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Opportunity Village-wilson Complex",
+	"address": "6300 W Oakey Blvd",
+	"city": "Las Vegas",
+	"zip": 89146,
+	"lat": 36.1522345,
+	"lon": -115.2326017,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Paradise Park Community Ctr.",
+	"address": "4775 McLeod Dr",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.1020932,
+	"lon": -115.1104328,
+	"cross": "S McLeod Dr, North of Tropicana",
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Park-edison, John Elem.",
+	"address": "931 Franklin Ave",
+	"city": "Las Vegas",
+	"zip": 89104,
+	"lat": 36.1538976,
+	"lon": -115.141374,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Parkdale Recreation Ctr.",
+	"address": "3200 Ferndale St",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.1313839,
+	"lon": -115.0769023,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Parson, Claude And Stella Elem.",
+	"address": "4100 Thom Blvd",
+	"city": "Las Vegas",
+	"zip": 89130,
+	"lat": 36.234399,
+	"lon": -115.210954,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Paseo Verde Library",
+	"address": "280 S Green Valley Pkwy",
+	"city": "Henderson",
+	"zip": 89012,
+	"cross": "S Green Valley Pkwy, South of Paseo Verde",
+	"lat": 36.0173474,
+	"lon": -115.0800296,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-30",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Rainbow Library",
+	"address": "3150 N Buffalo Dr",
+	"city": "Las Vegas",
+	"zip": 89128,
+	"cross": "N Buffalo Dr & Cheyenne",
+	"lat": 36.2176173,
+	"lon": -115.2588961,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "10:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Rancho High School",
+	"address": "1900 E Searles Ave",
+	"city": "Las Vegas",
+	"zip": 89101,
+	"lat": 36.1856109,
+	"lon": -115.1221973,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Reed, Doris Elem.",
+	"address": "2501 Winwood St",
+	"city": "Las Vegas",
+	"zip": 89108,
+	"lat": 36.205621,
+	"lon": -115.218445,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Reflection Bay Golf Club",
+	"address": "75 Montelago Blvd",
+	"city": "Henderson",
+	"zip": 89011,
+	"lat": 36.1098363,
+	"lon": -114.9250808,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Rogers, Lucille Elem.",
+	"address": "5535 S Riley St",
+	"city": "Las Vegas",
+	"zip": 89148,
+	"lat": 36.0881595,
+	"lon": -115.2856528,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Ronnow-edison, C. C. Elem.",
+	"address": "1100 Lena St",
+	"city": "Las Vegas",
+	"zip": 89101,
+	"lat": 36.1831953,
+	"lon": -115.1006026,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Rundle, Richard Elem.",
+	"address": "425 N Christy Ln",
+	"city": "Las Vegas",
+	"zip": 89110,
+	"lat": 36.1674879,
+	"lon": -115.054538,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sahara West Library",
+	"address": "9600 W Sahara Ave",
+	"city": "Las Vegas",
+	"zip": 89117,
+	"cross": "W Sahara Ave & Grand Canyon",
+	"lat": 36.1450039,
+	"lon": -115.3054274,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-06",
+		"open": "10:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sandy Valley School",
+	"address": "1420 Pearl Ave",
+	"city": "Sandy Valley",
+	"zip": 89019,
+	"lat": 35.8132824,
+	"lon": -115.6104496,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Saville, Anthony Mid. Sch.",
+	"address": "8101 N Torrey Pines Dr",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"lat": 36.307017,
+	"lon": -115.234328,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sawyer, Grant Mid. Sch.",
+	"address": "5450 Redwood St",
+	"city": "Las Vegas",
+	"zip": 89118,
+	"lat": 36.0894191,
+	"lon": -115.2371695,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Schofield, Jack Mid. Sch.",
+	"address": "8625 South Spencer Street",
+	"city": "Las Vegas",
+	"zip": 89123,
+	"lat": 36.0321707,
+	"lon": -115.1286984,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Schorr, Steve Elem.",
+	"address": "11420 Placid St",
+	"city": "Las Vegas",
+	"zip": 89183,
+	"lat": 35.9833976,
+	"lon": -115.1581186,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Seafood City",
+	"address": "3890 S Maryland Pkwy",
+	"city": "Las Vegas",
+	"zip": 89119,
+	"cross": "S Maryland Pkwy & Katie",
+	"lat": 36.1182191,
+	"lon": -115.1357269,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-03",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Searchlight Community Center",
+	"address": "200 Michael Wendell Way",
+	"city": "Searchlight",
+	"zip": 89046,
+	"lat": 35.4681811,
+	"lon": -114.9067382,
+	"availability": [
+	  {
+		"start": "2018-06-05",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "15:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sedway, Marvin Mid. Sch.",
+	"address": "3465 Englestad St",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"lat": 36.2230479,
+	"lon": -115.1489768,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Shadow Hills Baptist Church",
+	"address": "7811 Vegas Dr",
+	"city": "Las Vegas",
+	"zip": 89128,
+	"lat": 36.1871052,
+	"lon": -115.2661166,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Shadow Ridge High School",
+	"address": "5050 Brent Ln",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"lat": 36.318796,
+	"lon": -115.209366,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Silver Mesa Recreation Center",
+	"address": "4025 Allen Ln",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"cross": "Allen Ln & Alexander",
+	"lat": 36.2327609,
+	"lon": -115.1901665,
+	"availability": [
+	  {
+		"start": "2018-05-30",
+		"end": "2018-05-31",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Silverado Ranch Plaza",
+	"note": "Event Tent in Parking Lot near PetSmart",
+	"address": "9869 S Eastern Ave",
+	"city": "Las Vegas",
+	"zip": 89183,
+	"cross": "Eastern Ave & E Silverado Ranch Blvd",
+	"lat": 36.01012,
+	"lon": -115.1212294,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Silvestri, Charles Mid. Sch.",
+	"address": "1055 E Silverado Ranch Blvd",
+	"city": "Las Vegas",
+	"zip": 89183,
+	"lat": 36.0121252,
+	"lon": -115.1406436,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Simmons, Eva G. Elem.",
+	"address": "2328 Silver Clouds Dr",
+	"city": "North Las Vegas",
+	"zip": 89031,
+	"lat": 36.2682772,
+	"lon": -115.1745111,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "SkyView YMCA",
+	"address": "3050 E Centennial Pkwy",
+	"city": "North Las Vegas",
+	"zip": 89081,
+	"lat": 36.277268,
+	"lon": -115.10648,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Skye Center at Skye Canyon",
+	"address": "10111 W Skye Canyon Park Dr",
+	"city": "Las Vegas",
+	"zip": 89124,
+	"cross": "W Skye Canyon Park Dr & Skye Village Rd",
+	"lat": 36.3129007,
+	"lon": -115.3158447,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-27",
+		"open": "10:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Solera Anthem Community Center",
+	"address": "2401 Somersworth Dr",
+	"city": "Henderson",
+	"zip": 89044,
+	"cross": "Somersworth Dr & Solera Sky",
+	"lat": 35.9422079,
+	"lon": -115.0964047,
+	"availability": [
+	  {
+		"start": "2018-06-03",
+		"end": "2018-06-05",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Southern Highlands Marketplace",
+	"note": "In Trailer",
+	"address": "10630 Southern Highlands Pkwy",
+	"city": "Las Vegas",
+	"zip": 89141,
+	"cross": "Southern Highlands Pkwy & Cactus",
+	"lat": 35.996165,
+	"lon": -115.2053402,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Steele, Judith D. Elem.",
+	"address": "6995 W Eldorado Ln",
+	"city": "Las Vegas",
+	"zip": 89113,
+	"lat": 36.051406,
+	"lon": -115.245359,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Stevens, Josh Elem.",
+	"address": "550 Dave Wood Cir",
+	"city": "Henderson",
+	"zip": 89011,
+	"lat": 36.0837326,
+	"lon": -114.960444,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Stuckey, Evelyn Elem.",
+	"address": "4905 Chartan Ave",
+	"city": "Las Vegas",
+	"zip": 89141,
+	"lat": 35.9869164,
+	"lon": -115.2081171,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Stupak Community Ctr.",
+	"address": "251 W Boston Ave",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"lat": 36.1470153,
+	"lon": -115.1601056,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sun City Aliante Community Center",
+	"address": "7390 N Aliante Pkwy",
+	"city": "North Las Vegas",
+	"zip": 89084,
+	"cross": "Aliante Pkwy & Elkhorn",
+	"lat": 36.2947423,
+	"lon": -115.1835895,
+	"availability": [
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-29",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sun City Anthem Center",
+	"address": "2450 Hampton Rd",
+	"city": "Henderson",
+	"zip": 89052,
+	"cross": "Hampton Rd & Anthem Pkwy",
+	"lat": 35.9558761,
+	"lon": -115.0960919,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-05-28",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sun City MacDonald Ranch Community Center",
+	"address": "2020 W Horizon Ridge Pkwy",
+	"city": "Henderson",
+	"zip": 89012,
+	"cross": "W Horizon Ridge Pkwy, East of Green Valley Pkwy",
+	"lat": 36.0063938,
+	"lon": -115.0764853,
+	"availability": [
+	  {
+		"start": "2018-05-29",
+		"end": "2018-05-30",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Sun City Mesquite",
+	"address": "1350 Flat Top Mesa Dr",
+	"city": "Mesquite",
+	"zip": 89034,
+	"lat": 36.8339445,
+	"lon": -114.1115459,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-02",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Swainston, Theron Mid. Sch.",
+	"address": "3500 W Gilmore Ave",
+	"city": "North Las Vegas",
+	"zip": 89032,
+	"lat": 36.2292513,
+	"lon": -115.1867916,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Target",
+	"note": "In Trailer",
+	"address": "3550 S Rainbow Blvd",
+	"city": "Las Vegas",
+	"zip": 89103,
+	"cross": "S Rainbow Blvd & Spring Mountain",
+	"lat": 36.1248361,
+	"lon": -115.2409718,
+	"availability": [
+	  {
+		"start": "2018-05-28",
+		"end": "2018-05-30",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Target, Boca Park",
+	"note": "In Trailer",
+	"address": "8750 W Charleston Blvd",
+	"city": "Las Vegas",
+	"zip": 89117,
+	"cross": "W Charleston Blvd & Rampart",
+	"lat": 36.1616079,
+	"lon": -115.2868873,
+	"availability": [
+	  {
+		"start": "2018-06-02",
+		"end": "2018-06-04",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Tarkanian, Lois And Jerry Mid. Sch.",
+	"address": "5800 W Pyle Ave",
+	"city": "Las Vegas",
+	"zip": 89141,
+	"lat": 36.0066021,
+	"lon": -115.221062,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Tarr, Sheila Elem.",
+	"address": "9400 W Gilmore Ave",
+	"city": "Las Vegas",
+	"zip": 89129,
+	"lat": 36.2305999,
+	"lon": -115.3002568,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Taylor, Robert L. Elem.",
+	"address": "144 Westminster Way",
+	"city": "Henderson",
+	"zip": 89015,
+	"lat": 36.0366458,
+	"lon": -114.9710799,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "The Gramercy",
+	"note": "Event Tent in Parking Lot",
+	"address": "9265 W Russell Rd",
+	"city": "Las Vegas",
+	"zip": 89148,
+	"cross": "W Russell Rd, West of CC-215",
+	"lat": 36.0845794,
+	"lon": -115.2936628,
+	"availability": [
+	  {
+		"start": "2018-05-26",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Thompson, Sandra Elem.",
+	"address": "7351 N Campbell Rd",
+	"city": "Las Vegas",
+	"zip": 89149,
+	"lat": 36.2947544,
+	"lon": -115.2936208,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Tobler, R. E. Elem.",
+	"address": "6510 W Buckskin Ave",
+	"city": "Las Vegas",
+	"zip": 89108,
+	"lat": 36.2219953,
+	"lon": -115.2347663,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Vanderburg, John Elem.",
+	"address": "2040 Desert Shadow Trail",
+	"city": "Henderson",
+	"zip": 89012,
+	"lat": 36.0233253,
+	"lon": -115.0763731,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Vassiliadis, Billy & Rosemary Elem.",
+	"address": "215 Antelope Ridge Dr",
+	"city": "Las Vegas",
+	"zip": 89138,
+	"lat": 36.1769137,
+	"lon": -115.3601084,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Vegas Verdes Elem.",
+	"address": "4000 W El Parque Ave",
+	"city": "Las Vegas",
+	"zip": 89102,
+	"lat": 36.1497434,
+	"lon": -115.1954234,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Veterans Memorial Leisure Center",
+	"address": "101 S Pavilion Center Dr",
+	"city": "Las Vegas",
+	"zip": 89144,
+	"cross": "N Pavilion Center Dr, North of Alta",
+	"lat": 36.1745805,
+	"lon": -115.3337151,
+	"availability": [
+	  {
+		"start": "2018-05-30",
+		"end": "2018-06-02",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Veterans of Foreign Wars (VFW) Post #10047",
+	"address": "4337 N Las Vegas Blvd",
+	"city": "Las Vegas",
+	"zip": 89115,
+	"cross": "N Las Vegas Blvd & Craig",
+	"lat": 36.2400742,
+	"lon": -115.0579515,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Vons",
+	"address": "2667 Windmill Pkwy",
+	"city": "Henderson",
+	"zip": 89014,
+	"cross": "Windmill Pkwy & Pecos",
+	"lat": 36.0413172,
+	"lon": -115.1027815,
+	"availability": [
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-07",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "18:00"
+	  }
+	]
+  },
+  {
+	"name": "Vons",
+	"address": "45 E Horizon Ridge Pkwy",
+	"city": "Henderson",
+	"zip": 89002,
+	"cross": "Horizon & Horizon Ridge",
+	"lat": 36.0090849,
+	"lon": -114.9933754,
+	"availability": [
+	  {
+		"start": "2018-06-06",
+		"end": "2018-06-07",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-08",
+		"end": "2018-06-08",
+		"open": "09:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Vons",
+	"address": "6450 Sky Pointe Dr",
+	"city": "Las Vegas",
+	"zip": 89131,
+	"cross": "Sky Pointe & Buffalo",
+	"lat": 36.2803707,
+	"lon": -115.2614689,
+	"availability": [
+	  {
+		"start": "2018-06-01",
+		"end": "2018-06-03",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Walker, J. Marlan Elem.",
+	"address": "850 Scholar St",
+	"city": "Henderson",
+	"zip": 89002,
+	"lat": 35.995744,
+	"lon": -114.959911,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Walnut Recreation Center",
+	"address": "3075 N Walnut Rd",
+	"city": "Las Vegas",
+	"zip": 89115,
+	"cross": "N Walnut Rd, South of Cheyenne",
+	"lat": 36.215264,
+	"lon": -115.0902459,
+	"availability": [
+	  {
+		"start": "2018-05-31",
+		"end": "2018-06-01",
+		"open": "08:00",
+		"close": "17:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Wasden, Howard Elem.",
+	"address": "2831 Palomino Ln",
+	"city": "Las Vegas",
+	"zip": 89107,
+	"lat": 36.1623199,
+	"lon": -115.1796899,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Webb, Del Mid. Sch.",
+	"address": "2200 Reunion Dr",
+	"city": "Henderson",
+	"zip": 89052,
+	"lat": 35.980949,
+	"lon": -115.085374,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "West Career Tech. Academy",
+	"address": "11945 W Charleston Blvd",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"lat": 36.1580477,
+	"lon": -115.3545678,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "West Flamingo Senior Center",
+	"address": "6255 W Flamingo Rd",
+	"city": "Las Vegas",
+	"zip": 89103,
+	"cross": "W Flamingo Rd & Jones",
+	"lat": 36.114165,
+	"lon": -115.227721,
+	"availability": [
+	  {
+		"start": "2018-06-07",
+		"end": "2018-06-08",
+		"open": "08:00",
+		"close": "17:00"
+	  }
+	]
+  },
+  {
+	"name": "Whitney Recreation Center",
+	"address": "5712 Missouri Ave",
+	"city": "Las Vegas",
+	"zip": 89122,
+	"cross": "Missouri Ave, West of Boulder Hwy.",
+	"lat": 36.0958009,
+	"lon": -115.0477575,
+	"availability": [
+	  {
+		"start": "2018-06-04",
+		"end": "2018-06-05",
+		"open": "09:00",
+		"close": "18:00"
+	  },
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Wiener, Louis Jr. Elem.",
+	"address": "450 E Eldorado Ln",
+	"city": "Las Vegas",
+	"zip": 89123,
+	"lat": 36.0540067,
+	"lon": -115.15325,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Willows Community Ctr.",
+	"address": "2775 Desert Marigold Ln",
+	"city": "Las Vegas",
+	"zip": 89135,
+	"lat": 36.1396423,
+	"lon": -115.3209374,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Winchester Cultural Ctr.",
+	"address": "3130 McLeod Dr",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.1326968,
+	"lon": -115.1085463,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Wolfe, Eva Elem.",
+	"address": "4027 W Washburn Rd",
+	"city": "North Las Vegas",
+	"zip": 89031,
+	"lat": 36.2537263,
+	"lon": -115.1948694,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Woodbury, C. W. Mid. Sch.",
+	"address": "3875 E Harmon Ave",
+	"city": "Las Vegas",
+	"zip": 89121,
+	"lat": 36.1066659,
+	"lon": -115.0898639,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Woolley, Gwendolyn Elem.",
+	"address": "3955 N Timberlake Dr",
+	"city": "Las Vegas",
+	"zip": 89115,
+	"lat": 36.2314304,
+	"lon": -115.0953665,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  },
+  {
+	"name": "Wright, William V. Elem.",
+	"address": "8425 Bob Fisk Ave",
+	"city": "Las Vegas",
+	"zip": 89178,
+	"lat": 36.0141778,
+	"lon": -115.2758939,
+	"availability": [
+	  {
+		"start": "2018-06-12",
+		"end": "2018-06-12",
+		"open": "07:00",
+		"close": "19:00"
+	  }
+	]
+  }
+]
