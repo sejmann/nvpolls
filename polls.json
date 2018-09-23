@@ -1440,7 +1440,9 @@
         "close": "19:00"
       },
       {
-        "open": "8:00",
+        "start": "2018-11-06",
+        "end": "2018-11-06",
+        "open": "7:00",
         "close": "19:00"
       }
     ]
@@ -3423,22 +3425,6 @@
     "zip": 89142,
     "lat": 36.1495543,
     "lon": -115.0464138,
-    "availability": [
-      {
-        "start": "2018-11-06",
-        "end": "2018-11-06",
-        "open": "7:00",
-        "close": "19:00"
-      }
-    ]
-  },
-  {
-    "name": "Mesquite Deuce 2 Building",
-    "address": "150 N Yucca St",
-    "city": "Mesquite",
-    "zip": 89027,
-    "lat": 36.8069262,
-    "lon": -114.0674762,
     "availability": [
       {
         "start": "2018-11-06",
