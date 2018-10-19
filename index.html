@@ -545,7 +545,7 @@ try {
 					var poll=pollDate.poll;
 
 
-					if(poll.dist>maxDistance)  //|| pollDate.close.getTime()<now.getTime()) 
+					if(poll.dist>maxDistance || pollDate.close.getTime()<now.getTime()) 
 						continue;//ui.hidden;
 					
 					var ui = new UI("polldates_template",null,null,table);
