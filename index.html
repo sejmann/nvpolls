@@ -248,7 +248,7 @@
 			text-align: center;
 		}
 	</style>
-	<div class="header">Clark County Polling Places</div>
+	<div class="header">2018 Midterms: Clark County Polling Places</div>
 	<input id="zipInput" vars="textcolor=style.color;blur;placeholder,value,el" events="change:change,keyup" type="number" min="0" pattern="[0-9]*" inputmode="numeric" style="height:2em;font-size:1em" title="ZIP Code" placeholder="ZIP Code" name="address" maxlength="5">
 
 	<div id="sort_btns" style="position:relative;top:10px" hidden>	
@@ -545,7 +545,7 @@ try {
 					var poll=pollDate.poll;
 
 
-					if(poll.dist>maxDistance || pollDate.close.getTime()<now.getTime()) 
+					if(poll.dist>maxDistance) // || pollDate.close.getTime()<now.getTime()) 
 						continue;//ui.hidden;
 					
 					var ui = new UI("polldates_template",null,null,table);
