@@ -45,7 +45,6 @@ Drag "Buttons" to your bookmarks bar:</p>
 		editLink.innerText=eventName;
 		editLink.href=editLink.href.replace(/eventId=\d+;let/,`eventId=${eventId};let`);
 	}
-	eventName.addEventListener("change", e=>updateBookmarklet(eventName.value,eventId.value));
 	eventName.addEventListener("keyup", e=>updateBookmarklet(eventName.value,eventId.value));
 	editLink.addEventListener("mouseover", e=>updateBookmarklet(eventName.value,eventId.value));
 	
