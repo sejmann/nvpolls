@@ -43,7 +43,7 @@ Drag "Buttons" to your bookmarks bar:</p>
 <script language="javascript">
 	function updateBookmarklet(eventName,eventId){
 		editLink.innerText=eventName;
-		editLink.href=editLink.href.replace(/eventId=\d+;let/,'quot;eventId='+eventId+';let');
+		editLink.href=editLink.href.replace(/eventId=\d+;let/,`eventId=${eventId};let`);
 	}
 	eventName.addEventListener("change", e=>updateBookmarklet(eventName.value,eventId.value));
 	eventName.addEventListener("keyup", e=>updateBookmarklet(eventName.value,eventId.value));
