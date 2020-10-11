@@ -47,7 +47,7 @@ Drag "Buttons" to your bookmarks bar:</p>
 	}
 	eventName.addEventListener("change", e=>updateBookmarklet(eventName.value,eventId.value));
 	eventName.addEventListener("keyup", e=>updateBookmarklet(eventName.value,eventId.value));
-	eventId.addEventListener("change", e=>updateBookmarklet(eventName.value,eventId.value));
+	editLink.addEventListener("mouseover", e=>updateBookmarklet(eventName.value,eventId.value));
 	
 	eventName.value="R05_Dialer";eventId.value="296095"
 </script>
